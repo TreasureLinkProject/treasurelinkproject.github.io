@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "T949RKCGTL.com.wb.treasure-link",
+        "paths": [
+          "/treasure_link_app_ad/*",
+          "/"
+        ]
+      },
+      {
+        "appID": "T949RKCGTL.com.wb.treasure-link.stg",
+        "paths": [
+          "/treasure_link_app_ad/*",
+          "/"
+        ]
+      },
+      {
+        "appID": "T949RKCGTL.com.wb.treasure-link.dev",
+        "paths": [
+          "/treasure_link_app_ad/*",
+          "/"
+        ]
+      }
+    ]
+  }
+}
